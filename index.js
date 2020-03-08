@@ -1,5 +1,8 @@
 // Write your solution here!
-const append, prepend, removeLast, removeFirst = [];
+const append = [];
+const prepend = [];
+const removeLast = [];
+const removeFirst = [];
 append.push("Odie");
 prepend.unshift("Odie")
 removeLast.pop();
